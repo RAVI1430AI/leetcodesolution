@@ -1,3 +1,4 @@
+
 class Solution {
     public int countPairs(List<List<Integer>> coordinates, int k) {
         Map<List<Integer>, Integer> cnt = new HashMap<>();
