@@ -1,5 +1,3 @@
-
-
 class Solution {
     public boolean matchReplacement(String s, String sub, char[][] mappings) {
         Map<Character, Set<Character>> d = new HashMap<>();
