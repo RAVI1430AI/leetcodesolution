@@ -1,3 +1,5 @@
+
+
 class Solution {
     public int minPathCost(int[][] grid, int[][] moveCost) {
         int m = grid.length, n = grid[0].length;
