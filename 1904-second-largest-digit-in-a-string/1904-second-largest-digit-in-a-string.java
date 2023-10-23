@@ -1,5 +1,3 @@
-
-
 class Solution {
     public int secondHighest(String s) {
         int a = -1, b = -1;
